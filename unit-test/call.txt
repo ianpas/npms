@@ -1,0 +1,11 @@
+const a = 45 , b = 27;
+var x, y, g, m;
+
+procedure mod;
+	x:=x-x/y*y;
+
+begin
+	x:=a;
+	y:=b;
+	call mod	
+end.

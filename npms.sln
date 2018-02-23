@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "npms", "npms\npms.csproj", "{97A3380D-D4EF-4150-ADF5-D1285A78D72B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "npms-test", "npms-test\npms-test.csproj", "{B769E437-1C7C-46E4-B587-89771A62CCCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97A3380D-D4EF-4150-ADF5-D1285A78D72B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A3380D-D4EF-4150-ADF5-D1285A78D72B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A3380D-D4EF-4150-ADF5-D1285A78D72B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A3380D-D4EF-4150-ADF5-D1285A78D72B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B769E437-1C7C-46E4-B587-89771A62CCCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B769E437-1C7C-46E4-B587-89771A62CCCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B769E437-1C7C-46E4-B587-89771A62CCCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B769E437-1C7C-46E4-B587-89771A62CCCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3321DDD-B509-4336-A95C-BC383AC2B5CE}
+	EndGlobalSection
+EndGlobal

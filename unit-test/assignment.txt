@@ -1,0 +1,7 @@
+const a = 45 , b = 27;
+var x, y, g, m;
+
+begin
+	x:=a;
+	y:=b
+end.

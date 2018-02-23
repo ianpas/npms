@@ -1,0 +1,12 @@
+const a = 45 , b = 27;
+var x, y, g, m;
+
+begin
+	if x+y*a>0 then
+		if x+y*a>0 then
+			x:=a
+		else 
+			y:=b
+	else 
+		y:=b
+end.
